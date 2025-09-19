@@ -1,4 +1,4 @@
-public with sharing class AccountController {
+public with sharing class AccController {
     
     public static List<Account> getAllAccounts() {
         sytem.debug('inside getAllAccounts');
